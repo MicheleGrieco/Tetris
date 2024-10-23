@@ -21,8 +21,8 @@ Ensure you have Python installed on your system. You can download it from [pytho
 First, clone the project repository from GitHub or download it as a ZIP file.
 
 ```bash
-git clone https://github.com/username/tetris-game.git
-cd tetris-game
+git clone https://github.com/MicheleGrieco/Tetris.git
+cd Tetris
 ```
 
 ### 2. **Set up a Virtual Environment (Optional but Recommended)**
